@@ -1,0 +1,28 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template-overviews/the-big-picture)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+
+body {
+  background: url('../img/amanecer.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.bg-dark {
+    background-color: #ff7602 !important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: black;
+}
+.navbar-dark .navbar-brand {
+    color: black;
+}
+.mt-5, .my-5 {
+    color: #ff7602;
+}
+#intro{
+  color : #ffcf00;
+}
